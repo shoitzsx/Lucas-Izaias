@@ -52,10 +52,7 @@ Sistema para digitalizar e controlar o recebimento de materiais de almoxarifado,
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=default" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoitzsx&show_icons=true&theme=default" /> </p>
 ---
 
 <p align="center"><i>Aberto a oportunidades de estágio e projetos colaborativos!</i></p>
