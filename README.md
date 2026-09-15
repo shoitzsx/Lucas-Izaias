@@ -35,8 +35,9 @@
 
 ### 🚀 Projetos em destaque
 
-**[MedHub B2B](link-do-repo)**
-SPA médica multi-tenant desenvolvida como atividade prática de Desenvolvimento Web Avançado (SENAI).
+**[Águia Florestal - Sistema de O.S](https://github.com/shoitzsx/Sistema-de-O.S)**
+Sistema web para gerenciamento de ordens de serviço e manutenção preventiva/corretiva de máquinas agrícolas, com apps nativos Android/iOS.
+Tech stack: React 19, TypeScript, Vite, Tailwind CSS e Supabase (PostgreSQL).
 
 **[Nuvexa](https://github.com/shoitzsx/Nuvexa)**
 Aplicativo de gestão financeira pessoal, projeto acadêmico com foco em organização de gastos e receitas.
