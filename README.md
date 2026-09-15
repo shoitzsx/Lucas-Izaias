@@ -38,13 +38,13 @@
 **[MedHub B2B](link-do-repo)**
 SPA médica multi-tenant desenvolvida como atividade prática de Desenvolvimento Web Avançado (SENAI).
 
-**[Nuvexa](link-do-repo)**
+**[Nuvexa](https://github.com/shoitzsx/Nuvexa)**
 Aplicativo de gestão financeira pessoal, projeto acadêmico com foco em organização de gastos e receitas.
 
-**[Closet](link-do-repo)**
+**[Closet](https://github.com/shoitzsx/loja-feminina)**
 Plataforma de e-commerce para moda feminina e semijoias, com planejamento de arquitetura completo.
 
-**[Registros de Recebimento de Materiais (ALM)](link-do-repo)**
+**[Registros de Recebimento de Materiais (ALM)](https://github.com/shoitzsx/ALLM)**
 Sistema para digitalizar e controlar o recebimento de materiais de almoxarifado, substituindo processos manuais em planilha/WhatsApp.
 
 ---
